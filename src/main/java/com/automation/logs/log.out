@@ -1,0 +1,337 @@
+2021-12-25 13:12:65 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 13:12:383 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 13:12:837 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 13:12:720 INFO  HomePage :31 - clicking on Faded short t shirt Proxy element for: DefaultElementLocator 'By.cssSelector: li[class='ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line'] div[class='right-block'] a[title='Faded Short Sleeve T-shirts']'
+2021-12-25 13:12:250 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 13:12:90 INFO  HomePage :31 - clicking on Faded short t shirt Proxy element for: DefaultElementLocator 'By.cssSelector: li[class='ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line'] div[class='right-block'] a[title='Faded Short Sleeve T-shirts']'
+2021-12-25 13:12:137 INFO  HomePage :36 - verify there is 1 item in cart
+2021-12-25 13:12:601 INFO  HomePage :41 - clicking on proceed to checkout [[ChromeDriver: chrome on WINDOWS (bad50194ccc67abf236898846a393b8e)] -> xpath: //span[normalize-space()='Proceed to checkout']]
+2021-12-25 14:12:551 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:676 INFO  HomePage :31 - clicking on Faded short t shirt Proxy element for: DefaultElementLocator 'By.cssSelector: li[class='ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line'] div[class='right-block'] a[title='Faded Short Sleeve T-shirts']'
+2021-12-25 14:12:367 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:601 INFO  HomePage :32 - clicking on Faded short t shirt Proxy element for: DefaultElementLocator 'By.cssSelector: li[class='ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line'] div[class='right-block'] a[title='Faded Short Sleeve T-shirts']'
+2021-12-25 14:12:365 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:701 INFO  HomePage :32 - clicking on Faded short t shirt Proxy element for: DefaultElementLocator 'By.cssSelector: li[class='ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-tablet-line first-item-of-mobile-line'] div[class='right-block'] a[title='Faded Short Sleeve T-shirts']'
+2021-12-25 14:12:957 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:282 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:348 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:469 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:166 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:24 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:982 INFO  HomePage :30 - click on printed dress
+2021-12-25 14:12:96 INFO  HomePage :35 - click on add to cart
+2021-12-25 14:12:13 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:512 INFO  HomePage :30 - click on printed dress
+2021-12-25 14:12:629 INFO  HomePage :35 - click on add to cart
+2021-12-25 14:12:449 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:376 INFO  HomePage :31 - click on printed dress
+2021-12-25 14:12:479 INFO  HomePage :36 - click on add to cart
+2021-12-25 14:12:704 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:325 INFO  HomePage :31 - click on printed dress
+2021-12-25 14:12:403 INFO  HomePage :36 - click on add to cart
+2021-12-25 14:12:459 INFO  HomePage :44 - verify cart message
+2021-12-25 14:12:848 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 14:12:37 INFO  HomePage :33 - click on printed dress
+2021-12-25 14:12:126 INFO  HomePage :38 - click on add to cart
+2021-12-25 14:12:221 INFO  HomePage :46 - verify cart message
+2021-12-25 14:12:02 INFO  HomePage :51 - click on checkout
+2021-12-25 15:12:344 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 15:12:981 INFO  HomePage :36 - click on printed dress
+2021-12-25 15:12:104 INFO  HomePage :41 - click on add to cart
+2021-12-25 15:12:183 INFO  HomePage :49 - verify cart message
+2021-12-25 15:12:985 INFO  HomePage :54 - click on checkout
+2021-12-25 19:12:297 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 19:12:56 INFO  HomePage :39 - click on printed dress
+2021-12-25 19:12:165 INFO  HomePage :44 - click on add to cart
+2021-12-25 19:12:282 INFO  HomePage :52 - verify cart message
+2021-12-25 19:12:315 INFO  HomePage :57 - click on checkout
+2021-12-25 19:12:416 INFO  HomePage :62 - verify delete  button is displayed
+2021-12-25 19:12:511 INFO  HomePage :67 - click on delete button [[ChromeDriver: chrome on WINDOWS (05136d46e676b2de16754fb2b93fdbd0)] -> xpath: //i[@class='icon-trash']]
+2021-12-25 19:12:982 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 19:12:276 INFO  HomePage :39 - click on printed dress
+2021-12-25 19:12:369 INFO  HomePage :44 - click on add to cart
+2021-12-25 19:12:495 INFO  HomePage :52 - verify cart message
+2021-12-25 19:12:714 INFO  HomePage :57 - click on checkout
+2021-12-25 19:12:841 INFO  HomePage :62 - verify delete  button is displayed
+2021-12-25 19:12:933 INFO  HomePage :67 - click on delete button [[ChromeDriver: chrome on WINDOWS (e087ffb549e90035f478e1c11676d32a)] -> xpath: //i[@class='icon-trash']]
+2021-12-25 20:12:676 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 20:12:776 INFO  HomePage :39 - click on printed dress
+2021-12-25 20:12:872 INFO  HomePage :44 - click on add to cart
+2021-12-25 20:12:925 INFO  HomePage :52 - verify cart message
+2021-12-25 20:12:45 INFO  HomePage :57 - click on checkout
+2021-12-25 20:12:150 INFO  HomePage :62 - verify delete  button is displayed
+2021-12-25 20:12:264 INFO  HomePage :67 - click on delete button [[ChromeDriver: chrome on WINDOWS (c7ddec1b1f693cb0578cab0c735ef24b)] -> xpath: //i[@class='icon-trash']]
+2021-12-25 20:12:413 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 20:12:240 INFO  HomePage :39 - click on printed dress
+2021-12-25 20:12:339 INFO  HomePage :44 - click on add to cart
+2021-12-25 20:12:450 INFO  HomePage :52 - verify cart message
+2021-12-25 20:12:307 INFO  HomePage :57 - click on checkout
+2021-12-25 20:12:421 INFO  HomePage :62 - verify delete  button is displayed
+2021-12-25 20:12:530 INFO  HomePage :67 - click on delete button [[ChromeDriver: chrome on WINDOWS (69b65c4996f58f36fdd4bea37a09e702)] -> xpath: //i[@class='icon-trash']]
+2021-12-25 20:12:102 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 20:12:862 INFO  HomePage :39 - click on printed dress
+2021-12-25 20:12:958 INFO  HomePage :44 - click on add to cart
+2021-12-25 20:12:41 INFO  HomePage :52 - verify cart message
+2021-12-25 20:12:13 INFO  HomePage :57 - click on checkout
+2021-12-25 20:12:111 INFO  HomePage :62 - verify delete  button is displayed
+2021-12-25 20:12:227 INFO  HomePage :67 - click on delete button [[ChromeDriver: chrome on WINDOWS (1e48dbecd6b009bc9ad6afa9f5803708)] -> xpath: //i[@class='icon-trash']]
+2021-12-25 20:12:943 INFO  ManageDriver :32 - launching chrome browser
+2021-12-25 20:12:432 INFO  HomePage :39 - click on printed dress
+2021-12-25 20:12:533 INFO  HomePage :44 - click on add to cart
+2021-12-25 20:12:654 INFO  HomePage :52 - verify cart message
+2021-12-25 20:12:248 INFO  HomePage :57 - click on checkout
+2021-12-25 20:12:342 INFO  HomePage :62 - verify delete  button is displayed
+2021-12-25 20:12:431 INFO  HomePage :67 - click on delete button [[ChromeDriver: chrome on WINDOWS (938f0c0cc86100c06538f77df2331f53)] -> xpath: //i[@class='icon-trash']]
+2021-12-26 12:12:857 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 12:12:400 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 12:12:157 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 12:12:55 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 12:12:644 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (a2db0b3870d5676bb9b53243e8992f98)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 12:12:967 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 12:12:207 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (8f0dea26e61ec9513402e53629454380)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 12:12:250 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 12:12:590 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (554c6108702a43e06ce3222a3fbe7300)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 12:12:793 INFO  CreateAccountPage :24 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (554c6108702a43e06ce3222a3fbe7300)] -> xpath: //input[@id='email_create']]
+2021-12-26 12:12:612 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 12:12:365 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (d337d6db1e519e7778c3f479b797cf45)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 12:12:555 INFO  CreateAccountPage :24 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (d337d6db1e519e7778c3f479b797cf45)] -> xpath: //input[@id='email_create']]
+2021-12-26 12:12:592 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 12:12:857 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (bbb5b93c070fe399164aa383a10c4fe7)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 12:12:49 INFO  CreateAccountPage :27 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (bbb5b93c070fe399164aa383a10c4fe7)] -> xpath: //input[@id='email_create']]
+2021-12-26 12:12:165 INFO  CreateAccountPage :32 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (bbb5b93c070fe399164aa383a10c4fe7)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 13:12:315 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 13:12:724 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (6f2babf70b955132d37333762484ff07)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 13:12:915 INFO  CreateAccountPage :58 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (6f2babf70b955132d37333762484ff07)] -> xpath: //input[@id='email_create']]
+2021-12-26 13:12:19 INFO  CreateAccountPage :63 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (6f2babf70b955132d37333762484ff07)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 13:12:874 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 13:12:774 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (79fcff8683f4ade3cfb92ba774c171ba)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 13:12:967 INFO  CreateAccountPage :58 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (79fcff8683f4ade3cfb92ba774c171ba)] -> xpath: //input[@id='email_create']]
+2021-12-26 13:12:80 INFO  CreateAccountPage :63 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (79fcff8683f4ade3cfb92ba774c171ba)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 13:12:347 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 13:12:40 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (9dcb7d166eea338cee67ceb9dd3261e9)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 13:12:234 INFO  CreateAccountPage :58 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (9dcb7d166eea338cee67ceb9dd3261e9)] -> xpath: //input[@id='email_create']]
+2021-12-26 13:12:343 INFO  CreateAccountPage :63 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (9dcb7d166eea338cee67ceb9dd3261e9)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 13:12:884 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 13:12:603 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (7c45d96951d04b67e0f6836bac42e1c2)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 13:12:780 INFO  CreateAccountPage :58 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (7c45d96951d04b67e0f6836bac42e1c2)] -> xpath: //input[@id='email_create']]
+2021-12-26 13:12:892 INFO  CreateAccountPage :63 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (7c45d96951d04b67e0f6836bac42e1c2)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 13:12:371 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 13:12:375 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 13:12:571 INFO  CreateAccountPage :58 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> xpath: //input[@id='email_create']]
+2021-12-26 13:12:725 INFO  CreateAccountPage :69 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: #customer_firstname]
+2021-12-26 13:12:862 INFO  CreateAccountPage :75 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: #customer_lastname]
+2021-12-26 13:12:988 INFO  CreateAccountPage :81 - Entering Password : [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: #passwd]
+2021-12-26 13:12:153 INFO  CreateAccountPage :87 - Entering address : [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: #address1]
+2021-12-26 13:12:372 INFO  CreateAccountPage :92 - Entering city: Shrewsbury
+2021-12-26 13:12:527 INFO  CreateAccountPage :97 - Entering State: [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: #id_state]
+2021-12-26 13:12:635 INFO  CreateAccountPage :107 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: #postcode]
+2021-12-26 13:12:727 INFO  CreateAccountPage :112 - Entering Country: [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: #id_country]
+2021-12-26 13:12:858 INFO  CreateAccountPage :102 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (f1ee5de080e5892089a41bc9eb050e1c)] -> css selector: #phone_mobile]
+2021-12-26 13:12:982 INFO  CreateAccountPage :117 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 13:12:767 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 13:12:450 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 13:12:637 INFO  CreateAccountPage :58 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> xpath: //input[@id='email_create']]
+2021-12-26 13:12:756 INFO  CreateAccountPage :63 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 13:12:649 INFO  CreateAccountPage :69 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: #customer_firstname]
+2021-12-26 13:12:793 INFO  CreateAccountPage :75 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: #customer_lastname]
+2021-12-26 13:12:913 INFO  CreateAccountPage :81 - Entering Password : [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: #passwd]
+2021-12-26 13:12:69 INFO  CreateAccountPage :87 - Entering address : [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: #address1]
+2021-12-26 13:12:286 INFO  CreateAccountPage :92 - Entering city: Shrewsbury
+2021-12-26 13:12:444 INFO  CreateAccountPage :97 - Entering State: [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: #id_state]
+2021-12-26 13:12:551 INFO  CreateAccountPage :107 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: #postcode]
+2021-12-26 13:12:647 INFO  CreateAccountPage :112 - Entering Country: [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: #id_country]
+2021-12-26 13:12:779 INFO  CreateAccountPage :102 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (871cfcfa4512d997ee2b8ebb8178ca15)] -> css selector: #phone_mobile]
+2021-12-26 13:12:349 INFO  CreateAccountPage :117 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 14:12:767 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 14:12:590 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 14:12:882 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> xpath: //input[@id='email_create']]
+2021-12-26 14:12:77 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 14:12:510 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: #customer_firstname]
+2021-12-26 14:12:833 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: #customer_lastname]
+2021-12-26 14:12:199 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: #passwd]
+2021-12-26 14:12:527 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: #address1]
+2021-12-26 14:12:774 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 14:12:24 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: #id_state]
+2021-12-26 14:12:214 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: #postcode]
+2021-12-26 14:12:360 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: #id_country]
+2021-12-26 14:12:535 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (00f2b05df5fb189946c6d1d2f87bcbfb)] -> css selector: #phone_mobile]
+2021-12-26 14:12:85 INFO  CreateAccountPage :127 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 14:12:346 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 14:12:715 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 14:12:281 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> xpath: //input[@id='email_create']]
+2021-12-26 14:12:566 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 14:12:112 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: #customer_firstname]
+2021-12-26 14:12:598 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: #customer_lastname]
+2021-12-26 14:12:842 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: #passwd]
+2021-12-26 14:12:259 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: #address1]
+2021-12-26 14:12:475 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 14:12:728 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: #id_state]
+2021-12-26 14:12:20 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: #postcode]
+2021-12-26 14:12:215 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: #id_country]
+2021-12-26 14:12:494 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (96ace9f88f01aa9ceb3dab5175def476)] -> css selector: #phone_mobile]
+2021-12-26 14:12:435 INFO  CreateAccountPage :127 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 14:12:309 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 14:12:815 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 14:12:147 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> xpath: //input[@id='email_create']]
+2021-12-26 14:12:382 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 14:12:101 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: #customer_firstname]
+2021-12-26 14:12:371 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: #customer_lastname]
+2021-12-26 14:12:705 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: #passwd]
+2021-12-26 14:12:953 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: #address1]
+2021-12-26 14:12:165 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 14:12:385 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: #id_state]
+2021-12-26 14:12:526 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: #postcode]
+2021-12-26 14:12:693 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: #id_country]
+2021-12-26 14:12:887 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (05ec3a9cfd3542c4f3b081fc4ea6cd66)] -> css selector: #phone_mobile]
+2021-12-26 14:12:265 INFO  CreateAccountPage :127 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 14:12:243 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 14:12:512 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 14:12:753 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> xpath: //input[@id='email_create']]
+2021-12-26 14:12:951 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 14:12:297 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: #customer_firstname]
+2021-12-26 14:12:546 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: #customer_lastname]
+2021-12-26 14:12:863 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: #passwd]
+2021-12-26 14:12:103 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: #address1]
+2021-12-26 14:12:300 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 14:12:551 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: #id_state]
+2021-12-26 14:12:763 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: #postcode]
+2021-12-26 14:12:925 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: #id_country]
+2021-12-26 14:12:157 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (c4e8c98857f1ca0799a67d8a63b7d5bf)] -> css selector: #phone_mobile]
+2021-12-26 14:12:321 INFO  CreateAccountPage :127 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 16:12:160 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 16:12:560 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (078c256d0e78dc16a924f9360b880edd)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 16:12:834 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (078c256d0e78dc16a924f9360b880edd)] -> xpath: //input[@id='email_create']]
+2021-12-26 16:12:979 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (078c256d0e78dc16a924f9360b880edd)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 16:12:191 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (078c256d0e78dc16a924f9360b880edd)] -> css selector: #customer_firstname]
+2021-12-26 16:12:395 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (078c256d0e78dc16a924f9360b880edd)] -> css selector: #customer_lastname]
+2021-12-26 16:12:570 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (078c256d0e78dc16a924f9360b880edd)] -> css selector: #passwd]
+2021-12-26 16:12:615 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 16:12:599 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (d85bd9b1930caadda5c1758580213ac1)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 16:12:848 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (d85bd9b1930caadda5c1758580213ac1)] -> xpath: //input[@id='email_create']]
+2021-12-26 16:12:992 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (d85bd9b1930caadda5c1758580213ac1)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 16:12:403 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (d85bd9b1930caadda5c1758580213ac1)] -> css selector: #customer_firstname]
+2021-12-26 16:12:578 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (d85bd9b1930caadda5c1758580213ac1)] -> css selector: #customer_lastname]
+2021-12-26 16:12:733 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (d85bd9b1930caadda5c1758580213ac1)] -> css selector: #passwd]
+2021-12-26 16:12:477 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 16:12:752 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 16:12:92 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> xpath: //input[@id='email_create']]
+2021-12-26 16:12:265 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 16:12:596 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: #customer_firstname]
+2021-12-26 16:12:803 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: #customer_lastname]
+2021-12-26 16:12:994 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: #passwd]
+2021-12-26 16:12:301 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: #address1]
+2021-12-26 16:12:479 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 16:12:685 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: #id_state]
+2021-12-26 16:12:845 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: #postcode]
+2021-12-26 16:12:958 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: #id_country]
+2021-12-26 16:12:119 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (74b2c3b9149ab801aed4731a03878c4e)] -> css selector: #phone_mobile]
+2021-12-26 16:12:510 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 16:12:457 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 16:12:676 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> xpath: //input[@id='email_create']]
+2021-12-26 16:12:829 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 16:12:209 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: #customer_firstname]
+2021-12-26 16:12:387 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: #customer_lastname]
+2021-12-26 16:12:545 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: #passwd]
+2021-12-26 16:12:832 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: #address1]
+2021-12-26 16:12:975 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 16:12:170 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: #id_state]
+2021-12-26 16:12:316 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: #postcode]
+2021-12-26 16:12:416 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: #id_country]
+2021-12-26 16:12:552 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (aaf5ffa9ef9f14719f125769aad7519a)] -> css selector: #phone_mobile]
+2021-12-26 16:12:377 INFO  CreateAccountPage :127 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 16:12:639 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 16:12:201 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 16:12:441 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> xpath: //input[@id='email_create']]
+2021-12-26 16:12:605 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 16:12:912 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: #customer_firstname]
+2021-12-26 16:12:91 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: #customer_lastname]
+2021-12-26 16:12:243 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: #passwd]
+2021-12-26 16:12:536 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: #address1]
+2021-12-26 16:12:691 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 16:12:862 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: #id_state]
+2021-12-26 16:12:10 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: #postcode]
+2021-12-26 16:12:122 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: #id_country]
+2021-12-26 16:12:307 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (42c725b95a54c84a4ec04288229518a3)] -> css selector: #phone_mobile]
+2021-12-26 16:12:462 INFO  CreateAccountPage :127 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 16:12:693 INFO  CreateAccountPage :60 - verify account name text : 
+2021-12-26 16:12:137 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 16:12:983 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 16:12:271 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> xpath: //input[@id='email_create']]
+2021-12-26 16:12:409 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 16:12:40 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: #customer_firstname]
+2021-12-26 16:12:231 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: #customer_lastname]
+2021-12-26 16:12:396 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: #passwd]
+2021-12-26 16:12:666 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: #address1]
+2021-12-26 16:12:817 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 16:12:17 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: #id_state]
+2021-12-26 16:12:151 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: #postcode]
+2021-12-26 16:12:249 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: #id_country]
+2021-12-26 16:12:380 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (df924dbe2a0fd56c5a92b041f5b5f00e)] -> css selector: #phone_mobile]
+2021-12-26 16:12:98 INFO  CreateAccountPage :127 - clicking on register button: Proxy element for: DefaultElementLocator 'By.cssSelector: button[id='submitAccount'] span'
+2021-12-26 16:12:280 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 16:12:823 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 16:12:82 INFO  CreateAccountPage :68 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> xpath: //input[@id='email_create']]
+2021-12-26 16:12:249 INFO  CreateAccountPage :73 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 16:12:397 INFO  CreateAccountPage :79 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: #customer_firstname]
+2021-12-26 16:12:569 INFO  CreateAccountPage :85 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: #customer_lastname]
+2021-12-26 16:12:797 INFO  CreateAccountPage :91 - Entering Password : [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: #passwd]
+2021-12-26 16:12:34 INFO  CreateAccountPage :97 - Entering address : [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: #address1]
+2021-12-26 16:12:265 INFO  CreateAccountPage :102 - Entering city: Shrewsbury
+2021-12-26 16:12:468 INFO  CreateAccountPage :107 - Entering State: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: #id_state]
+2021-12-26 16:12:586 INFO  CreateAccountPage :117 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: #postcode]
+2021-12-26 16:12:730 INFO  CreateAccountPage :122 - Entering Country: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: #id_country]
+2021-12-26 16:12:893 INFO  CreateAccountPage :112 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: #phone_mobile]
+2021-12-26 16:12:866 INFO  CreateAccountPage :127 - clicking on register button: [[ChromeDriver: chrome on WINDOWS (9a0fe73765dc97f9664804e940fd5ce0)] -> css selector: button[id='submitAccount'] span]
+2021-12-26 17:12:125 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 17:12:293 INFO  ManageDriver :32 - launching chrome browser
+2021-12-26 17:12:442 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: a[title='Log in to your customer account']]
+2021-12-26 17:12:798 INFO  CreateAccountPage :81 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> xpath: //input[@id='email_create']]
+2021-12-26 17:12:50 INFO  CreateAccountPage :86 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-26 17:12:186 INFO  CreateAccountPage :92 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: #customer_firstname]
+2021-12-26 17:12:380 INFO  CreateAccountPage :98 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: #customer_lastname]
+2021-12-26 17:12:628 INFO  CreateAccountPage :104 - Entering Password : [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: #passwd]
+2021-12-26 17:12:854 INFO  CreateAccountPage :110 - Entering address : [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: #address1]
+2021-12-26 17:12:89 INFO  CreateAccountPage :115 - Entering city: Shrewsbury
+2021-12-26 17:12:328 INFO  CreateAccountPage :120 - Entering State: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: #id_state]
+2021-12-26 17:12:452 INFO  CreateAccountPage :130 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: #postcode]
+2021-12-26 17:12:573 INFO  CreateAccountPage :135 - Entering Country: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: #id_country]
+2021-12-26 17:12:732 INFO  CreateAccountPage :125 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: #phone_mobile]
+2021-12-26 17:12:929 INFO  CreateAccountPage :140 - clicking on register button: [[ChromeDriver: chrome on WINDOWS (bb09e8642b96a75eabfb14e4299d2075)] -> css selector: button[id='submitAccount'] span]
+2021-12-26 17:12:22 INFO  CreateAccountPage :65 - verifying error message: 'There are 4 errors'
+2021-12-28 13:12:906 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 13:12:867 INFO  HomePage :84 - clicking on sign In: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: a[title='Log in to your customer account']]
+2021-12-28 13:12:78 INFO  CreateAccountPage :81 - Entering email for new account user: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> xpath: //input[@id='email_create']]
+2021-12-28 13:12:215 INFO  CreateAccountPage :86 - clicking on create an account button: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: button[id='SubmitCreate'] span]
+2021-12-28 13:12:377 INFO  CreateAccountPage :92 - Entering First Name : [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: #customer_firstname]
+2021-12-28 13:12:473 INFO  CreateAccountPage :98 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: #customer_lastname]
+2021-12-28 13:12:621 INFO  CreateAccountPage :104 - Entering Password : [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: #passwd]
+2021-12-28 13:12:741 INFO  CreateAccountPage :110 - Entering address : [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: #address1]
+2021-12-28 13:12:964 INFO  CreateAccountPage :115 - Entering city: Shrewsbury
+2021-12-28 13:12:97 INFO  CreateAccountPage :120 - Entering State: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: #id_state]
+2021-12-28 13:12:177 INFO  CreateAccountPage :130 - Entering postcode: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: #postcode]
+2021-12-28 13:12:277 INFO  CreateAccountPage :135 - Entering Country: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: #id_country]
+2021-12-28 13:12:422 INFO  CreateAccountPage :125 - Entering Phone number: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: #phone_mobile]
+2021-12-28 13:12:275 INFO  CreateAccountPage :140 - clicking on register button: [[ChromeDriver: chrome on WINDOWS (880f76d910bd36d8d1425a7be59ab2f5)] -> css selector: button[id='submitAccount'] span]
+2021-12-28 13:12:328 INFO  CreateAccountPage :65 - verifying error message: 'There are 4 errors'
+2021-12-28 13:12:577 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 13:12:971 INFO  WomenPage :36 - mouse hover to women tab :[[ChromeDriver: chrome on WINDOWS (f46dd9c0ccdd9a4a33160cf66bb3585a)] -> xpath: //a[@title='Women']]
+2021-12-28 13:12:308 INFO  WomenPage :41 - click on summer dress :Proxy element for: DefaultElementLocator 'By.xpath: //li[@class='sfHover']//a[@title='Summer Dresses'][normalize-space()='Summer Dresses']'
+2021-12-28 14:12:883 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 14:12:905 INFO  OurStorePage :23 - clicking on our store :[[ChromeDriver: chrome on WINDOWS (0a9271c2f70bf0b37d3a0d7109beea9c)] -> xpath: //li[@class='item']//a[@title='Our stores'][normalize-space()='Our stores']]
+2021-12-28 14:12:173 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 14:12:788 INFO  OurStorePage :35 - clicking on our store :[[ChromeDriver: chrome on WINDOWS (e8f8fa347edccede582c10531f0ae7fb)] -> xpath: //li[@class='item']//a[@title='Our stores'][normalize-space()='Our stores']]
+2021-12-28 14:12:12 INFO  OurStorePage :30 - click on pop up Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='dismissButton']'
+2021-12-28 14:12:265 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 14:12:560 INFO  OurStorePage :35 - clicking on our store :[[ChromeDriver: chrome on WINDOWS (efd453290e567c73f363f32db6554bc6)] -> xpath: //li[@class='item']//a[@title='Our stores'][normalize-space()='Our stores']]
+2021-12-28 14:12:693 INFO  OurStorePage :30 - click on pop up Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='dismissButton']'
+2021-12-28 14:12:571 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 14:12:42 INFO  OurStorePage :35 - clicking on our store :[[ChromeDriver: chrome on WINDOWS (08517f90a12828f630d5dc4bd3c1bb5d)] -> xpath: //li[@class='item']//a[@title='Our stores'][normalize-space()='Our stores']]
+2021-12-28 14:12:710 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 14:12:838 INFO  OurStorePage :39 - clicking on our store :[[ChromeDriver: chrome on WINDOWS (e13250e6a5df2f75463e56190adadbca)] -> xpath: //li[@class='item']//a[@title='Our stores'][normalize-space()='Our stores']]
+2021-12-28 14:12:976 INFO  OurStorePage :34 - click on pop up Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='dismissButton']'
+2021-12-28 14:12:411 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 14:12:901 INFO  OurStorePage :39 - clicking on our store :[[ChromeDriver: chrome on WINDOWS (7591a059b9e1ded7ef614b0649528b26)] -> xpath: //li[@class='item']//a[@title='Our stores'][normalize-space()='Our stores']]
+2021-12-28 14:12:52 INFO  OurStorePage :34 - click on pop up Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='dismissButton']'
+2021-12-28 14:12:418 INFO  ManageDriver :32 - launching chrome browser
+2021-12-28 14:12:776 INFO  OurStorePage :39 - clicking on our store :[[ChromeDriver: chrome on WINDOWS (1ce673c9523a865d8da18799135dbf97)] -> xpath: //li[@class='item']//a[@title='Our stores'][normalize-space()='Our stores']]
+2021-12-28 14:12:968 INFO  OurStorePage :34 - click on pop up Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='dismissButton']'
