@@ -1,7 +1,7 @@
 Feature: Create account verification
   As a user i should create an account with valid credentials
 
-
+@smoke,@sanity
   Scenario Outline: verify user can create account successfully
     Given i am on home page
     And I click on sign in link
@@ -22,7 +22,7 @@ Feature: Create account verification
       | name  | surname | password | add          | city       | state | postal | country | phone      |
       | Prime | tester  | 123456   | 35 wholefood | Shrewsbury | 21    | 01545  | 21      | 3501236565 |
 
-
+@regression
   Scenario: verify user is able to create account successfully
     Given i am on home page
     And  I click on sign in link

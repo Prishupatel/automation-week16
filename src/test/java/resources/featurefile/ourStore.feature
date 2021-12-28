@@ -1,7 +1,7 @@
 Feature: Our Stores
   User should successfully navigate to our store page successfully
 
-  @smoke1
+  @smoke
   Scenario: verify user should drag map and take screenshot of location
     Given i am on home page
     When I click on our store page

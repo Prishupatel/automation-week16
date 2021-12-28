@@ -1,14 +1,14 @@
 Feature: Summer dress test
   As a user i can navigate to summer dress collection
 
-
+@smoke
   Scenario: verify user can navigate to summer page
     Given i am on home page
     And I mouse hover on women tab
     And I click on summer dress sub menu
     Then I navigated to summer dress page
 
-
+@regression
     Scenario: verify user can search products between specific price
       Given i am on home page
       And I mouse hover on women tab

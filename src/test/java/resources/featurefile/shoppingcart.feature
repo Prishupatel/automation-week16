@@ -1,7 +1,7 @@
 Feature: cart must be empty
   as a user i can delete item in the cart
 
-  @smoke
+  @sanity
   Scenario: verify shopping cart is empty after deleting item in the cart
     Given i am on home page
     And  I click on printed dress
